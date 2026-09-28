@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/craftipv6",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Craft URLs and ipv6 query parts with stable normalization.",
+  "bin": {
+    "craftipv6": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/craftipv6.git"
+  },
+  "homepage": "https://theworker02.github.io/craftipv6/",
+  "keywords": [
+    "craft",
+    "ipv6",
+    "url",
+    "cli",
+    "toolkit"
+  ]
+}
